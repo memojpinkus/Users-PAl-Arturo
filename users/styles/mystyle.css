@@ -1,0 +1,8 @@
+.alert-error{
+    border: 1px solid red;
+    background-color: lightcoral;
+}
+
+.hide{
+    display: none;
+}
